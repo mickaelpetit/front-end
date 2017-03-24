@@ -5,6 +5,3 @@ TODO: Ceci est le projet front-end
 - Sacha Mettoudi
 - Maxime Pasqualini
 - Mickael Petit
-
-]]></content>
-  <tabTrigger>readme</tabTrigger>
